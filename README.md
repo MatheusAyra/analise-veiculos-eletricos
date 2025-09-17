@@ -35,14 +35,7 @@ Este projeto realiza uma análise exploratória dos dados de veículos elétrico
    ```bash
    python Dados.py
    ```
-
-## 📈 Exemplos de Gráficos
-
-<div align="center">
-  <img src="images/top_10_marcas.png" alt="Top 10 Marcas" width="500"/>
-  <img src="images/top_10_estados.png" alt="Top 10 Estados" width="500"/>
-</div>
-
+   
 ## 💡 Insights
 
 - As marcas **mais populares** de veículos elétricos são apresentadas em gráfico de barras.
@@ -51,7 +44,7 @@ Este projeto realiza uma análise exploratória dos dados de veículos elétrico
 
 ## 📬 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario/)
+- [LinkedIn](https://www.linkedin.com/in/matheus-reis-71a082250/)
 - [GitHub](https://github.com/MatheusAyra)
 
 ---
